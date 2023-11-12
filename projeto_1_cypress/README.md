@@ -3,10 +3,11 @@
 <h3 align="center">✅ Concluído ✅</h3>
 
 <p align="center">
- <a href="#-sobre-o-projeto">Sobre as atividades</a> •
+ <a href="#-sobre-o-projeto">Sobre o projeto</a> •
  <a href="#-tecnologias">Tecnologias</a> • 
- <a href="#-bib">Biblioteca</a> • 
- <a href="#-autor">Autor</a> • 
+ <a href="#-utilitarios">Utilitários</a> • 
+ <a href="#-comoExecutar">Como executar o projeto</a> • 
+ <a href="#-autores">Autores</a> • 
  <a href="#user-content--licença">Licença</a>
 </p>
 
@@ -64,7 +65,7 @@ $ ./node_modules/.bin/cypress run --spec 'cypress/e2e/**/'
 ---
 
 
-## 👥 Autor
+## 👥 Autores
 <table>
   <tr>
     <td>
